@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">10119231_latihanAPI</string>
+    <string name="get">Get</string>
+    <string name="fake_resource">Cuaca Kota London saat ini \n temp : 20C \n kelembaban : 20% \n deskripsi : kabut </string>
+</resources>
